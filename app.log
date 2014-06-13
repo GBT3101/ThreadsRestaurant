@@ -1,0 +1,10 @@
+13:33:23.155 [main] INFO ass3.Statistics - ORDER 0 HAS BEEN ACCEPTED
+13:33:23.155 [pool-5-thread-1] INFO ass3.Statistics - ORDER 0 IS NOW BEING COOKED
+13:33:23.157 [pool-4-thread-1] INFO ass3.Statistics - ORDER 1 IS NOW BEING COOKED
+13:33:23.157 [main] INFO ass3.Statistics - ORDER 1 HAS BEEN ACCEPTED
+13:33:23.157 [main] INFO ass3.Statistics - ORDER 2 HAS BEEN ACCEPTED
+13:33:23.157 [pool-4-thread-2] INFO ass3.Statistics - ORDER 2 IS NOW BEING COOKED
+13:33:23.157 [main] INFO ass3.Statistics - ORDER 3 HAS BEEN ACCEPTED
+13:33:23.157 [pool-3-thread-1] INFO ass3.Statistics - ORDER 3 IS NOW BEING COOKED
+13:33:23.158 [main] INFO ass3.Statistics - ORDER 4 HAS BEEN ACCEPTED
+13:33:23.158 [pool-3-thread-2] INFO ass3.Statistics - ORDER 4 IS NOW BEING COOKED
